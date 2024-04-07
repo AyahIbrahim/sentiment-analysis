@@ -1,0 +1,62 @@
+﻿Value,Sentiment Description,
+-1,Negative,
+0,Neutral,
+1,Positive,
+,,
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+1us tick for PIC18F46k22,Slightly Positive,0.014
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+Entering IF Statement When Conditions Arent Met ,Slightly Positive,0.0614
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+3 digit seven segment display only shows one digit,Slightly Positive,0.175
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+12F 675 CODE ISSUE,Neutral,0
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+Driving a 2-pin bicolor LED between two RAx pins,Positive,0.4167
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+Error compiling sequencer code pic 16f84a,Neutral,0.05
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+Gated Timer on PIC18 sets TMR3IF flag too late,Negative,-0.64
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+How to ack/nack i2c operation in PIC18F46k22,Positive,0.6333
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+Reading TMR0 prescale value,Positive,0.7667
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+Scrolling Text on Max7219 RRCF instruction help,Positive,0.55
+,,
+" “Forum Topic""",Average Sentiment Description,Average Metric Rating
+IOC Interrupt Latency vs INT Latency,Positive,0.625
+,,
+" “Forum Topic""",Average Sentiment Description,Average Metric Rating
+Microchip Chip Shortage,Negative,-0.2224
+,,
+" “Forum Topic""",Average Sentiment Description,Average Metric Rating
+Phase Current Reading,Neutral,0
+,,
+" “Forum Topic""",Average Sentiment Description,Average Metric Rating
+Phase Current Reading,Negative,-0.6375
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+RA4 on Pic16lf1519 issue,Neutral,0
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+"PIC18F27K42 code bigger than 64K won't work, using MPLABX6.00, XC8, an PK3",Positive,0.25
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+PIC18F...K42 corrupt shadow registers (interrupt context saving),Slightly Negative,-0.04
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+PIC16 mpasm how to work with arrays,"”Positive""",0.18
+,,
+Forum Topic,Average Sentiment Description,Average Metric Rating
+Some Rookie questions,Positive,0.1
